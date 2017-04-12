@@ -1,0 +1,8 @@
+/Users/rbinetti/firstapp/bin/Debug/netcoreapp1.1/firstapp.deps.json
+/Users/rbinetti/firstapp/bin/Debug/netcoreapp1.1/firstapp.runtimeconfig.json
+/Users/rbinetti/firstapp/bin/Debug/netcoreapp1.1/firstapp.runtimeconfig.dev.json
+/Users/rbinetti/firstapp/bin/Debug/netcoreapp1.1/firstapp.dll
+/Users/rbinetti/firstapp/bin/Debug/netcoreapp1.1/firstapp.pdb
+/Users/rbinetti/firstapp/obj/Debug/netcoreapp1.1/firstapp.AssemblyInfo.cs
+/Users/rbinetti/firstapp/obj/Debug/netcoreapp1.1/firstapp.dll
+/Users/rbinetti/firstapp/obj/Debug/netcoreapp1.1/firstapp.pdb
